@@ -1,6 +1,6 @@
 # Author: Lukas Alatalo
-# McGill ID: 260923751
-# Assignment 1, Question 1
+#this program calculates the output of the guasian function based on user inputs.
+
 import math
 
 def gaussian_2D(x,y,A,xO,yO,sigmaX,sigmaY): # parameters are defined by the user inputs
