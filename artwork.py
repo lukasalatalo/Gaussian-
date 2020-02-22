@@ -1,8 +1,7 @@
 # Author: Lukas Alatalo
-# McGill ID: 260923751
-# Assignment 1, Question 2
 
-# Your code here.
+#This program uses turtle to draw certain shapes 
+
 from turtle import forward,right,left,speed,circle,up,down
 
 def move(d): #moves the drawing mouse away from the other shapes
