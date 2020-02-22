@@ -1,6 +1,7 @@
 # Author: Lukas Alatalo
-# McGill ID: 260923751
-# Assignment 2, Question 1
+#this program takes in various integers from the user, converts it into a list, and returns the smallest integer that was not inputed.
+#For example, the smallest positive integer not in the list [1, 5, 2] is 3, so the function should return 3.
+
 
 #this function takes in a list of integers and returns the smalles integer not in the list.
 def fetch(numbers):
