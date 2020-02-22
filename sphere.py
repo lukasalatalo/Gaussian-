@@ -1,8 +1,6 @@
 # Author: Lukas Alatalo
-# McGill ID: 260923751
-# Assignment 1, Question 3
+#This program calculates the radius, surface area, or the volume of a sphere based on user inputs.
 
-# Your code here.
 import math
 
 data = input("What piece of data do you have? ")  #Asking the user to input the piece of data that they have.
