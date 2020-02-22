@@ -1,6 +1,8 @@
 # Author: Lukas Alatalo
-# McGill ID: 260923751
-# Assignment 1, Question 4
+#This program computes the first j terms of the Vink sequence for the given values of n and k. If none of the j terms are 1,
+#then the function should return -1. If you do encounter a term of 1, then the function should stop computing terms and 
+#immediately return the number of terms that have been computed so far. For example, if the 37th term of the sequence is 1, 
+#then the program immediately return the value 37
 
 def vink_sequence(n,k,j): # the parameters of this function are the user inputs for n, k, and j.
     # Your code here.
