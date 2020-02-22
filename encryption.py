@@ -1,6 +1,7 @@
 # Author: Lukas Alatalo
-# McGill ID: 260923751
-# Assignment 2, Question 3
+
+
+#this program takes in a user input, encrypts it, and decrypts it.
 
 import random
 
