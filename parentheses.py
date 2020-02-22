@@ -1,6 +1,9 @@
 # Author: Lukas Alatalo
-# McGill ID: 260923751
-# Assignment 2, Question 2
+
+#suppose that someone decides to replace commas with an opening parenthesis ‘(’, 
+#and then inserts a closing parenthesis ‘)’ at the end of the sentence. For example, 
+#instead of writing ‘Hello, World!’ they write ‘Hello( World!)’. This is done for every comma in the sentence.
+#this program takes in a string like this and converts it back into the correct sentence 
 
 #this function takes in a string and a lettter and returns the first
 #index where that letter appears in the string.
