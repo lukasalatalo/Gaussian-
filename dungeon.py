@@ -1,6 +1,6 @@
 # Author: Lukas Alatalo 
-# McGill ID: 260923751
-# Assignment 2, Question 4
+#this program is a simulation of an escape room. The description of the room is displayed to the user and the user must find a
+#way to escape based on different hints. 
 
 AUTHOR = "Lukas Alatalo"
 ROOM_NAME = "Piano Man"
@@ -13,7 +13,6 @@ the mattress and the piano. There is also a Keymaster called Lukas who can give 
 Find a way to get out.''')
 
     commands = {
-        # insert key-value pairs here
         "examine piano" : "The piano is fully functional. The word 'glass' is faintly carved into the piano.",
         "examine window" : "Looking closely at the window, you can see in writing, 'press first key from the right'.",
         "examine mattress" : "The mattress is very comfy but unfortunately yields no clues.",
