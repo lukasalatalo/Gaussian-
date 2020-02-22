@@ -1,6 +1,11 @@
 package javareview;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Scanner; 
+
+//this program simulates the game minesweeper. There is a ten by ten grid and at some spots on the grid, there are mines.
+//the usere must pick a point on the grid. If the user hits a mine, the game is over. If the user does not hit a mine, 
+//the program outputs how many mines there are directly beside the user.
+
 public class PartC {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
